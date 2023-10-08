@@ -1,7 +1,8 @@
 """List of prime numbers generator."""
 """ENTER YOUR SOLUTION HERE!"""
 
-def checkPrime(num):
+
+def checkPrime(numb):
     isPrime = True
     counter = 2
     if num == 1:
@@ -25,3 +26,4 @@ def primes(number_of_primes):
 
 print(checkPrime(7))
 print(primes(10))
+
