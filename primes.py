@@ -2,7 +2,7 @@
 """ENTER YOUR SOLUTION HERE!"""
 
 
-def checkPrime(numb):
+def checkPrime(num):
     isPrime = True
     counter = 2
     if num == 1:
